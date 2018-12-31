@@ -106,7 +106,7 @@
                                                                                             <li>最终，希望大家能够找到与自己志同道合的伙伴，共同成长</li>
                                                                                         </ul>
                                                                                     </td>
-                                                                                </tr>                                                        
+                                                                                </tr>
                                                                             </tbody></table>
                                                                     </div>
                                                                 </td>
@@ -140,11 +140,11 @@
                                                     <span>
                                                         <p align="left" style="font-size:12px;line-height:15px;color:#666666;margin-top:0px;margin-bottom:5px;white-space:normal">
                                                             <span>
-                                                                <a href="${servePath}/about" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">关于</a> 
+                                                                <a href="${servePath}/about" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">关于</a>
                                                                 <span style="color:#999">•</span>
                                                                 <a href="${servePath}/article/1457158841475" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">API</a>
                                                                 <span style="color:#999">•</span>
-                                                                <a href="${servePath}/perfect" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">优选</a> 
+                                                                <a href="${servePath}/perfect" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">优选</a>
                                                                 <span style="color:#999">•</span>
                                                                 <a href="${servePath}/tag/announcement" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">公告</a>
                                                                 <span style="color:#999">•</span>
@@ -158,8 +158,7 @@
                                                 </td>
                                                 <td width="40" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif"></td>
                                                 <td width="180" valign="top" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif">
-                                                    <p align="right" style="font-size:12px;line-height:18px;color:#999;margin-top:0px;margin-bottom:15px;white-space:normal"><span>© 2016 <a href="${servePath}" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">hacpai.com</a> <span style="color:#333;">黑客与画家</span></span><br style="line-height:100%"><span style="font-size:12px;color:#ccc;">Feel easy about trust.</span></p>
-                                                </td>
+                                                      </td>
                                                 <td width="30" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif"></td>
                                             </tr>
                                             <tr style="border-collapse:collapse">
