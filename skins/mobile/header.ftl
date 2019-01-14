@@ -17,12 +17,12 @@
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 -->
-<div class="nav"> 
+<div class="nav">
     <div class="wrapper fn-clear">
         <div class="head-fn fn-left">
             <h1>
                 <a href="${servePath}" aria-label="${symphonyLabel}">
-                    <svg><use xlink:href="#logo"></use></svg>
+                    <img src="${staticServePath}/images/bika.png"/>
                 </a>
             </h1>
         </div>

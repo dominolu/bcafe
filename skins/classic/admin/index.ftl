@@ -29,12 +29,7 @@
                 </div>
             </h2>
         </div>
-        <div class="module-panel content-reset ft-blue fn-content">
-            <ul>
-                <li>Sym 社区版使用 AGPL 开源协议，请务必保证所有代码及其衍生代码开源，并在页脚放置开源库地址</li>
-                <li>云南链滴科技有限公司保留追究侵权人法律责任的权利</li>
-            </ul>
-        </div>
+
     </div>
     <div class="module fn-content content-reset">
         <ul>

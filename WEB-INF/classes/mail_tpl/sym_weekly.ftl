@@ -66,7 +66,7 @@
                             <tr style="border-collapse:collapse">
                                 <td width="640" align="center" bgcolor="#FFFFFF" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif">
                                     <a href="${servePath}" target="_blank">
-                                        <img height="140" width="640" src="${staticServePath}/images/mail/weekly-banner3.png" alt="黑客派">
+                                        <img height="140" width="640" src="${staticServePath}/images/mail/weekly-banner3.png" alt="币咖">
                                     </a>
                                 </td>
                             </tr>
@@ -124,7 +124,7 @@
                                                                                     <td width="150" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:20px;padding:0 0 15px 10px">
                                                                                         <a href="${servePath}/member/${user.userName?url('UTF-8')}" style="color:#595959;font-weight:bold;text-decoration:none;font-size:14px" target="_blank" ><strong>${user.userName}</strong></a>
                                                                                         <br style="line-height:100%">
-                                                                                        <span style="color:#999">帖子</span> 
+                                                                                        <span style="color:#999">帖子</span>
                                                                                         <span style="color:#333">${user.userArticleCount?c}</span>
                                                                                         <span style="color:#999">回贴</span>
                                                                                         <span style="color:#333">${user.userCommentCount?c}</span>
@@ -141,7 +141,7 @@
                                                                                     <td width="150" style="border-collapse:collapse;font-family:Helvetica,Arial,sans-serif;font-size:13px;line-height:20px;padding:0 0 15px 10px">
                                                                                         <a href="${servePath}/member/${user.userName?url('UTF-8')}" style="color:#595959;font-weight:bold;text-decoration:none;font-size:14px" target="_blank" ><strong>${user.userName}</strong></a>
                                                                                         <br style="line-height:100%">
-                                                                                        <span style="color:#999">帖子</span> 
+                                                                                        <span style="color:#999">帖子</span>
                                                                                         <span style="color:#333">${user.userArticleCount?c}</span>
                                                                                         <span style="color:#999">回贴</span>
                                                                                         <span style="color:#333">${user.userCommentCount?c}</span>
@@ -169,7 +169,7 @@
                                                                                             祝大家中秋团圆
                                                                                         </span>
                                                                                     </td>
-                                                                                </tr>                                                        
+                                                                                </tr>
                                                                             </tbody></table>
                                                                     </div>
                                                                     -->
@@ -204,11 +204,11 @@
                                                     <span>
                                                         <p align="left" style="font-size:12px;line-height:15px;color:#666666;margin-top:0px;margin-bottom:5px;white-space:normal">
                                                             <span>
-                                                                <a href="${servePath}/about" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">关于</a> 
+                                                                <a href="${servePath}/about" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">关于</a>
                                                                 <span style="color:#999">•</span>
                                                                 <a href="${servePath}/article/1457158841475" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">API</a>
                                                                 <span style="color:#999">•</span>
-                                                                <a href="${servePath}/perfect" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">优选</a> 
+                                                                <a href="${servePath}/perfect" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">优选</a>
                                                                 <span style="color:#999">•</span>
                                                                 <a href="${servePath}/tag/announcement" style="color:#4183c4;font-weight:bold;text-decoration:none" target="_blank">公告</a>
                                                                 <span style="color:#999">•</span>
