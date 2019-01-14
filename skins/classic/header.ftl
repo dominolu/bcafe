@@ -20,7 +20,7 @@
 <div class="nav">
     <h1 aria-label="${symphonyLabel}" class="tooltipped tooltipped-s">
         <a href="${servePath}">
-            <img src="${staticServePath}/images/bcafe.png"/>
+            <img src="${staticServePath}/images/bika.png"/>
         </a>
     </h1>
     <div class="nav-tabs">
