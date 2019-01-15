@@ -45,9 +45,7 @@
         <@icon article.articlePerfect article.articleType></@icon>
         <a class="ft-a-title" data-id="${article.oId}" data-type="${article.articleType}" rel="bookmark" href="${servePath}${article.articlePermalink}">${article.articleTitleEmoj}
         </a>
-        <a  href="${servePath}${article.articlePermalink}>
-        ${article.articlePreviewContent}
-        <a/>
+      
     </h2>
     <div class="fn-flex">
         <div class="fn-flex-1">
